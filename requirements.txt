@@ -1,0 +1,7 @@
+Required:
+  xcode command line tools
+  llvm
+  clang
+
+Optional:
+  Android studio
